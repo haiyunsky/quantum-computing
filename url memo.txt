@@ -3,3 +3,9 @@ https://quantum-computing.ibm.com/
 https://qiskit.org/textbook/preface.html
 
 haiyun@iibasou.com | Inage401
+
+
+qiskit 0.19.6  (Local環境を構築する)
+----------------------------------------
+conda create -n qiskit python=3.7.6
+conda activate qiskit
