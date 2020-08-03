@@ -1,6 +1,6 @@
 https://quantum-computing.ibm.com/
 
-https://qiskit.org/textbook/preface.html
+https://qiskit.org/documentation/install.html
 
 haiyun@iibasou.com | Inage401
 
