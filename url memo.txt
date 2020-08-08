@@ -6,6 +6,8 @@ https://qiskit.org/documentation/getting_started.html
 
 语法教程
 --------------------------------------------
+https://qiskit.org/textbook/ch-appendix/linear_algebra.html
+
 https://quantum.country/qcvc
 
 https://qiskit.org/documentation/install.html
