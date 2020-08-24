@@ -1,3 +1,11 @@
+coding and testing
+-------------------------------------------
+1) https://quantum-computing.ibm.com/jupyter/user/test1.ipynb
+
+实例教程
+2) https://qiskit.org/documentation/tutorials/circuits/1_getting_started_with_qiskit.html
+
+
 https://quantum-computing.ibm.com/
 
 实例教程
