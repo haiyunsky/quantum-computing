@@ -5,6 +5,9 @@ coding and testing
 实例教程
 2) https://qiskit.org/documentation/tutorials/circuits/1_getting_started_with_qiskit.html
 
+https://oreilly-qc.github.io/docs/build/cheatsheet.html
+
+
 local install
 3) https://qiskit.org/documentation/install.html
 
