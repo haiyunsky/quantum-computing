@@ -1,3 +1,6 @@
+
+https://cloud.ibm.com/developer/watson/dashboard
+
 coding and testing
 -------------------------------------------
 1) https://quantum-computing.ibm.com/jupyter/user/test1.ipynb
